@@ -1,7 +1,7 @@
 
 Dashboarb initial au premier lancement du serveur Eureka:
-<img width="852" height="582" alt="Capture1ClientService" src="https://github.com/user-attachments/assets/a2cc3b61-ec67-41c4-83ad-cebbce3cb520" />
 
+![WhatsApp Image 2025-12-18 at 13 28 04](https://github.com/user-attachments/assets/0ca328f9-16d7-4a14-9d25-7d785f794faf)
 
 Dashbord apres lancement du service:
 ![WhatsApp Image 2025-12-18 at 13 04 29](https://github.com/user-attachments/assets/03e93511-35f9-4c60-bb55-14220ae57e05)
