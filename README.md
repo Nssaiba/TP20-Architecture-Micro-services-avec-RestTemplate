@@ -1,9 +1,20 @@
-git remote add origin https://github.com/Nssaiba/TP20-Architecture-Micro-services-avec-RestTemplate.git
 
+Dashboarb initial au premier lancement du serveur Eureka:
+
+
+Dashbord apres lancement du service:
 ![WhatsApp Image 2025-12-18 at 13 03 51](https://github.com/user-attachments/assets/98784116-e017-45f8-b427-f674f38f467c)
+
+
+Liste des clients a travers la gateway
+<img width="810" height="558" alt="image" src="https://github.com/user-attachments/assets/b12f67e3-30eb-4990-984d-e058e69952a0" />
 
 ![WhatsApp Image 2025-12-18 at 13 03 29](https://github.com/user-attachments/assets/5977b2d3-ca47-4ccb-a3aa-5beeb8037478)
 
+recuperation par id=1 
+<img width="806" height="307" alt="image" src="https://github.com/user-attachments/assets/884619e6-b29f-4f21-8fb7-1ba60bdee9d6" />
+
+Liste des voitures a travers la gateway
 
 
 
@@ -14,6 +25,9 @@ ID 2:
 
 Sercice Client:
 <img width="852" height="582" alt="Capture1ClientService" src="https://github.com/user-attachments/assets/a58699f3-ac8b-4502-b52c-846ec88b8a51" />
+
+ID1:
+<img width="809" height="259" alt="image" src="https://github.com/user-attachments/assets/9c0ac015-55e9-480f-bbdc-f83ba5c9bea6" />
 
 Service voiture
 liste des voitures:
